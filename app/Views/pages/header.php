@@ -22,7 +22,7 @@
                 <a class="nav-link active" aria-current="page" href="<?php echo base_url();?>/index.php/frontPage/">Home</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link active" href="#">About</a>
+                <a class="nav-link active" href="<?php echo base_url();?>/index.php/about/">About</a>
               </li>
               <!-- <li class="nav-item dropdown">
                 <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
@@ -36,7 +36,7 @@
                 </ul>
               </li> -->
               <!-- <li class="nav-item">
-                <a class="nav-link active" href="#">Services</a>
+                <a class="nav-link active" href="#">Services</a>php
               </li> -->
               <!-- <li class="nav-item">
                 <a class = "nav-link active"href="#">Pages</a>
